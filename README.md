@@ -1,7 +1,5 @@
 # Dimwit: Your Personal AI Assistant
 
-Dimwit is a personal AI assistant designed to make your life easier by providing a variety of functionalities. It can perform tasks such as web searches, telling jokes, fetching COVID-19 statistics, providing weather updates, and much more. Dimwit utilizes several Python libraries to achieve these tasks, including speech recognition, text-to-speech, and web scraping.
-
 ## Features
 
 - **Voice Interaction**: Dimwit can take voice commands and respond using text-to-speech.
